@@ -44,6 +44,7 @@ namespace HelloWorldRUI
                 { "German", "Hallo Welt!" },
                 { "Japanese", "Kon'nichiwa sekai!" },
                 { "Spanish", "¡Hola Mundo!" },
+                { "Fuckyouish","Fuck You!" }
             };
             //var keys = Greetings.Keys.ToArray();
             string[] keys = Greetings.Keys.ToArray();
